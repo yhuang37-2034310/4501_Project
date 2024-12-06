@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.db
+*.sql
+parquet_files/
+taxi_zones/
+weather_data/
+ride_heatmap.html
