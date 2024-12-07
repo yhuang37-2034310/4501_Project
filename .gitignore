@@ -6,3 +6,4 @@ taxi_zones/
 weather_data/
 ride_heatmap.html
 
+.DS_Store
